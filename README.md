@@ -4,8 +4,7 @@ Binary File Replacement Utility
 
 Command line utility for replacing string (ASCII or Hex) within a file.
 
-Usage: bfr [-help] OldStr NewStr OldFile [NewFile] [-b -d]
-
+    Usage: bfr [-help] OldStr NewStr OldFile [NewFile] [-b -d]
        OldStr: Original string.
        NewStr: Replacement string (\"\" = none)
        OldFile: Source filename.
